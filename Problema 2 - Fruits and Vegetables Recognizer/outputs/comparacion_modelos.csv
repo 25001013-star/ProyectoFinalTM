@@ -1,0 +1,4 @@
+Modelo,Test Loss,Test Accuracy,Parametros,Tiempo entrenamiento (s),Epocas corridas
+Modelo C - Profunda (GAP),0.37020307779312134,0.8722222447395325,422086,278.9,15
+Modelo A - Baseline,0.39490875601768494,0.8620370626449585,1088934,232.3,15
+Modelo B - Regularizada,0.5980104207992554,0.7712963223457336,2454342,376.0,12
